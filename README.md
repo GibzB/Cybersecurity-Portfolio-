@@ -15,6 +15,16 @@ Welcome to my cybersecurity portfolio! I am a passionate cybersecurity analyst w
 📄 [CTF Challenge Writeups](link-to-writeups)  
 📄 [Incident Response Reports](link-to-reports)  
 
+## Cybersecurity Reports  
+
+### 🔹 TryHackMe Room Writeups  
+1. [THM Room 1 Writeup](reports/tryhackme/THM-Room1-Writeup.pdf)  
+2. [THM Room 2 Writeup](reports/tryhackme/THM-Room2-Writeup.pdf)  
+
+### 🔹 Google Cybersecurity Reports  
+- [Google Cybersecurity Course Report](reports/google-cybersecurity/Google-Cybersecurity-Course-Report.pdf)  
+
+
 ## Tools  
 🛠️ [Security Scripts](link-to-tools)  
 🛠️ [SIEM Rules](link-to-siem-rules)  
